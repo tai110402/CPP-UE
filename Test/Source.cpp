@@ -34,5 +34,6 @@ int main()
     {
         Actor a;
     }
+    cout << "tai";
     system("pause");
 }
